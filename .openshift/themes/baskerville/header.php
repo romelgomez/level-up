@@ -12,7 +12,9 @@
 		<?php if ( is_singular() ) wp_enqueue_script( "comment-reply" ); ?>
 		 
 		<?php wp_head(); ?>
-	
+
+        <link href="http://fonts.googleapis.com/css?family=Press+Start+2P" rel="stylesheet" type="text/css">
+
 	</head>
 	
 	<body <?php body_class(); ?>>
