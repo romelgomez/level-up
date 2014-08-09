@@ -1,0 +1,119 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Jakub Baran <jakub@rockettheme.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+"X-Generator: Poedit 1.6.3\n"
+
+msgid "ROKSPROCKET_STRIPS_LAYOUT_TITLE"
+msgstr "Strips Layout Options"
+
+msgid "ROKSPROCKET_STRIPS_LAYOUT_DEFAULTS_TITLE"
+msgstr "Strips Article Defaults"
+
+msgid "ROKSPROCKET_STRIPS_ITEMSPERPAGE_LABEL"
+msgstr "Previews per Page"
+
+msgid "ROKSPROCKET_STRIPS_ITEMSPERPAGE_DESC"
+msgstr "Amount of article previews to show on each page"
+
+msgid "ROKSPROCKET_STRIPS_ITEMSPERROW"
+msgstr "Items Per Row"
+
+msgid "ROKSPROCKET_STRIPS_ITEMSPERROW_DESC"
+msgstr "Amount of article items to show in each row."
+
+msgid "ROKSPROCKET_LAYOUT_STRIPS_TITLE_LABEL"
+msgstr "Title"
+
+msgid "ROKSPROCKET_LAYOUT_STRIPS_TITLE_DESC"
+msgstr ""
+"The title to be used for the List item. If not set, it will default to the "
+"article title."
+
+msgid "ROKSPROCKET_LAYOUT_STRIPS_DESCRIPTION_LABEL"
+msgstr "Description"
+
+msgid "ROKSPROCKET_LAYOUT_STRIPS_DESCRIPTION_DESC"
+msgstr ""
+"The description to be used for the Feature. If not set, it will defaults to "
+"the article Introtext."
+
+msgid "ROKSPROCKET_LAYOUT_STRIPS_IMAGE_LABEL"
+msgstr "Image"
+
+msgid "ROKSPROCKET_LAYOUT_STRIPS_IMAGE_DESC"
+msgstr "The image to be used assigned to the article for the List items."
+
+msgid "ROKSPROCKET_LAYOUT_STRIPS_LINK_LABEL"
+msgstr "Link"
+
+msgid "ROKSPROCKET_LAYOUT_STRIPS_LINK_DESC"
+msgstr ""
+"If set, the link will show a 'Read More' button, link the title and based on "
+"the Theme, link the image as well."
+
+msgid "ROKSPROCKET_STRIPS_ARTICLEDETAILS"
+msgstr "Article Details"
+
+msgid "ROKSPROCKET_STRIPS_ARTICLEDETAILS_DESC"
+msgstr "Shows or Hides article details such as Date and Author."
+
+msgid "ROKSPROCKET_STRIPS_ARTICLEDETAILS_POSITION"
+msgstr "Article Details Position"
+
+msgid "ROKSPROCKET_STRIPS_ARTICLEDETAILS_POSITION_DESC"
+msgstr ""
+"Show article details, such as Date and Author, inside or outside the content "
+"area."
+
+msgid "ROKSPROCKET_LAYOUT_STRIPS_TAGS_LABEL"
+msgstr "Tags"
+
+msgid "ROKSPROCKET_LAYOUT_STRIPS_TAGS_DESC"
+msgstr "A comma separated list of tags for the filtering on frontend."
+
+msgid "ROKSPROCKET_LAYOUT_STRIPS_ICON_LABEL"
+msgstr "Icon"
+
+msgid "ROKSPROCKET_LAYOUT_STRIPS_ICON_DESC"
+msgstr "If set, this will show an icon next to your title."
+
+msgid "SLIDE"
+msgstr "Slide"
+
+msgid "FADEDELAY"
+msgstr "Fade Delayed"
+
+msgid "FLYIN"
+msgstr "Fly In"
+
+msgid "FALLDOWN"
+msgstr "Fall Down"
+
+msgid "FLOATUP"
+msgstr "Float Up"
+
+msgid "SCALEIN"
+msgstr "Scale In"
+
+msgid "SCALEOUT"
+msgstr "Scale Out"
+
+msgid "SINGLE_ROW"
+msgstr "Single Row"
+
+msgid "WRAP"
+msgstr "Wrap"
+
+msgid "ROKSPROCKET_INSIDE"
+msgstr "Inside"
+
+msgid "ROKSPROCKET_OUTSIDE"
+msgstr "Outside"
