@@ -1,1 +1,0 @@
-tinyMCE.addI18n({en_US:{NextGEN:{desc:"Add RokSprocket Widget"}}});
