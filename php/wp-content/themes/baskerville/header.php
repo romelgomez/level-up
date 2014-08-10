@@ -14,7 +14,7 @@
     <?php wp_head(); ?>
 
     <link href="http://fonts.googleapis.com/css?family=Press+Start+2P" rel="stylesheet" type="text/css">
-
+    <link href='http://fonts.googleapis.com/css?family=Racing+Sans+One' rel='stylesheet' type='text/css'>
 
 </head>
 
@@ -26,7 +26,7 @@
 
     <div class="header-search-block bg-graphite hidden" style="background-image: url(<?php echo get_template_directory_uri() . '/images/levelup/07t2mb2.gif'; ?>);">
 
-        <div class="section-inner row" style="color: white;">
+        <div class="section-inner row" style="color: white;margin-top: 10px; font-family: 'Racing Sans One', cursive; font-size: 32px;">
             <h1>Overclocking</h1>
         </div>
 
