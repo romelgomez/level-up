@@ -41,7 +41,7 @@
 
             </div>
             <div class="column column-3 one-third">
-  c
+<!--  c-->
             </div>
 
         </div>
