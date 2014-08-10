@@ -15,6 +15,7 @@
 
     <link href="http://fonts.googleapis.com/css?family=Press+Start+2P" rel="stylesheet" type="text/css">
 
+
 </head>
 
 <body <?php body_class(); ?>>
@@ -25,7 +26,27 @@
 
     <div class="header-search-block bg-graphite hidden">
 
-        <?php get_search_form(); ?>
+        <div class="section-inner row" style="color: white;">
+            <h1>Overclocking</h1>
+        </div>
+
+        <div class="section-inner row">
+
+            <div class="column column-1 one-third">
+a
+            </div>
+            <div class="column column-2 one-third">
+ b
+            </div>
+            <div class="column column-3 one-third">
+  c
+            </div>
+
+        </div>
+
+
+
+
 
     </div> <!-- /header-search-block -->
 
