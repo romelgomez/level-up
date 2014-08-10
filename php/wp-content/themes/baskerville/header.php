@@ -24,7 +24,7 @@
 
     <div class="cover"></div>
 
-    <div class="header-search-block bg-graphite hidden">
+    <div class="header-search-block bg-graphite hidden" style="background-image: url(<?php echo get_template_directory_uri() . '/images/levelup/07t2mb2.gif'; ?>);">
 
         <div class="section-inner row" style="color: white;">
             <h1>Overclocking</h1>
