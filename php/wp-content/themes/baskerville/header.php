@@ -26,17 +26,19 @@
 
     <div class="header-search-block bg-graphite hidden" style="background-image: url(<?php echo get_template_directory_uri() . '/images/levelup/07t2mb2.gif'; ?>);">
 
-        <div class="section-inner row" style="color: white;margin-top: 10px; font-family: 'Racing Sans One', cursive; font-size: 32px;">
-            <h1>Overclocking</h1>
-        </div>
+<!--        <div class="section-inner row" >-->
+<!--            <h1>Overclocking</h1>-->
+<!--        </div>-->
 
         <div class="section-inner row">
-
             <div class="column column-1 one-third">
-a
+                <h1 style="color: white;margin-top: 10px; font-family: 'Racing Sans One', cursive; font-size: 32px;" >Overclocking</h1>
+                <img src="<?php echo get_template_directory_uri() . '/images/levelup/gtx_780.png'; ?>">
             </div>
             <div class="column column-2 one-third">
- b
+                <h1 style="color: white;margin-top: 10px; font-family: 'Racing Sans One', cursive; font-size: 32px;" >Molding</h1>
+                <img src="<?php echo get_template_directory_uri() . '/images/levelup/case_c70.png'; ?>">
+
             </div>
             <div class="column column-3 one-third">
   c
